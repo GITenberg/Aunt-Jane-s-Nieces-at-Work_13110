@@ -1,0 +1,45 @@
+_repo: Aunt-Jane-s-Nieces-at-Work_13110
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Fitzgerald, Hugh
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    - Metcalf, Suzanne
+    - Akers, Floyd
+    - Fitzgerald, Capt. Hugh
+    - Cooke, John Estes
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Cover -- Contents.
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'New York (State) -- Juvenile fiction'
+- !lcsh 'Spies -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Artists -- Juvenile fiction'
+- !lcsh 'Political campaigns -- Juvenile fiction'
+- !lcsh 'United States. Congress. House -- Elections -- Juvenile fiction'
+- !lcc 'PZ'
+title: Aunt Jane's Nieces at Work
+url: http://www.gutenberg.org/ebooks/13110
