@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13110#Aunt-Jane-s-Nieces-at-Work
 gutenberg_issued: '2004-08-03'
 gutenberg_type: Text
 identifiers:
